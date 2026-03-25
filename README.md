@@ -39,8 +39,8 @@ This is a minimal project allowing users to fund the contract owner with donatio
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-cu
-cd foundry-fund-me-cu
+git clone https://github.com/hio1337/foundry-first-repo
+cd foundry-first-repo
 make
 ```
 
